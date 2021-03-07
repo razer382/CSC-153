@@ -1,0 +1,7 @@
+C:\Users\Branden\source\repos\textadventure1_AlderBranden\textadventure1_AlderBranden\bin\Debug\textadventure1_AlderBranden.exe.config
+C:\Users\Branden\source\repos\textadventure1_AlderBranden\textadventure1_AlderBranden\bin\Debug\textadventure1_AlderBranden.exe
+C:\Users\Branden\source\repos\textadventure1_AlderBranden\textadventure1_AlderBranden\bin\Debug\textadventure1_AlderBranden.pdb
+C:\Users\Branden\source\repos\textadventure1_AlderBranden\textadventure1_AlderBranden\obj\Debug\textadventure1_AlderBranden.csprojAssemblyReference.cache
+C:\Users\Branden\source\repos\textadventure1_AlderBranden\textadventure1_AlderBranden\obj\Debug\textadventure1_AlderBranden.csproj.CoreCompileInputs.cache
+C:\Users\Branden\source\repos\textadventure1_AlderBranden\textadventure1_AlderBranden\obj\Debug\textadventure1_AlderBranden.exe
+C:\Users\Branden\source\repos\textadventure1_AlderBranden\textadventure1_AlderBranden\obj\Debug\textadventure1_AlderBranden.pdb
