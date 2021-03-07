@@ -1,0 +1,6 @@
+C:\Users\decei\source\repos\PetClass\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+C:\Users\decei\source\repos\PetClass\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+C:\Users\decei\source\repos\PetClass\MyClassLibrary\obj\Debug\MyClassLibrary.csprojAssemblyReference.cache
+C:\Users\decei\source\repos\PetClass\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\decei\source\repos\PetClass\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+C:\Users\decei\source\repos\PetClass\MyClassLibrary\obj\Debug\MyClassLibrary.pdb
