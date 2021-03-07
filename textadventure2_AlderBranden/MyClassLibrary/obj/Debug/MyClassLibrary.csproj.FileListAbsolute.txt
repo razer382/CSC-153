@@ -1,0 +1,6 @@
+C:\Users\decei\Desktop\textadventure1_AlderBranden\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+C:\Users\decei\Desktop\textadventure1_AlderBranden\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+C:\Users\decei\Desktop\textadventure1_AlderBranden\MyClassLibrary\obj\Debug\MyClassLibrary.csprojAssemblyReference.cache
+C:\Users\decei\Desktop\textadventure1_AlderBranden\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\decei\Desktop\textadventure1_AlderBranden\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+C:\Users\decei\Desktop\textadventure1_AlderBranden\MyClassLibrary\obj\Debug\MyClassLibrary.pdb
