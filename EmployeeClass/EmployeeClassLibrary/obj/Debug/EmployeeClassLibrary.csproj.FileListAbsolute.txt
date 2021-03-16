@@ -1,0 +1,6 @@
+C:\Users\decei\source\repos\EmployeeClass\EmployeeClassLibrary\bin\Debug\EmployeeClassLibrary.dll
+C:\Users\decei\source\repos\EmployeeClass\EmployeeClassLibrary\bin\Debug\EmployeeClassLibrary.pdb
+C:\Users\decei\source\repos\EmployeeClass\EmployeeClassLibrary\obj\Debug\EmployeeClassLibrary.csprojAssemblyReference.cache
+C:\Users\decei\source\repos\EmployeeClass\EmployeeClassLibrary\obj\Debug\EmployeeClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\decei\source\repos\EmployeeClass\EmployeeClassLibrary\obj\Debug\EmployeeClassLibrary.dll
+C:\Users\decei\source\repos\EmployeeClass\EmployeeClassLibrary\obj\Debug\EmployeeClassLibrary.pdb
