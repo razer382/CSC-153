@@ -1,0 +1,7 @@
+C:\Users\Branden\source\repos\DLExam\M2HW2_Alderb6714\bin\Debug\M2HW2_Alderb6714.exe.config
+C:\Users\Branden\source\repos\DLExam\M2HW2_Alderb6714\bin\Debug\M2HW2_Alderb6714.exe
+C:\Users\Branden\source\repos\DLExam\M2HW2_Alderb6714\bin\Debug\M2HW2_Alderb6714.pdb
+C:\Users\Branden\source\repos\DLExam\M2HW2_Alderb6714\obj\Debug\M2HW2_Alderb6714.csprojAssemblyReference.cache
+C:\Users\Branden\source\repos\DLExam\M2HW2_Alderb6714\obj\Debug\M2HW2_Alderb6714.csproj.CoreCompileInputs.cache
+C:\Users\Branden\source\repos\DLExam\M2HW2_Alderb6714\obj\Debug\M2HW2_Alderb6714.exe
+C:\Users\Branden\source\repos\DLExam\M2HW2_Alderb6714\obj\Debug\M2HW2_Alderb6714.pdb
