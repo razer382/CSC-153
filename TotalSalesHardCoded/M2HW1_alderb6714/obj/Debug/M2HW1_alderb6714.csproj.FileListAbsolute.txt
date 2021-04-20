@@ -1,0 +1,6 @@
+C:\Users\alderb6714\source\repos\TotalSalesHardCoded\M2HW1_alderb6714\bin\Debug\M2HW1_alderb6714.exe.config
+C:\Users\alderb6714\source\repos\TotalSalesHardCoded\M2HW1_alderb6714\bin\Debug\M2HW1_alderb6714.exe
+C:\Users\alderb6714\source\repos\TotalSalesHardCoded\M2HW1_alderb6714\bin\Debug\M2HW1_alderb6714.pdb
+C:\Users\alderb6714\source\repos\TotalSalesHardCoded\M2HW1_alderb6714\obj\Debug\M2HW1_alderb6714.csprojAssemblyReference.cache
+C:\Users\alderb6714\source\repos\TotalSalesHardCoded\M2HW1_alderb6714\obj\Debug\M2HW1_alderb6714.exe
+C:\Users\alderb6714\source\repos\TotalSalesHardCoded\M2HW1_alderb6714\obj\Debug\M2HW1_alderb6714.pdb
