@@ -1,0 +1,6 @@
+C:\Users\decei\source\repos\PersonalInformation\PersonalInfoLibrary\bin\Debug\PersonalInfoLibrary.dll
+C:\Users\decei\source\repos\PersonalInformation\PersonalInfoLibrary\bin\Debug\PersonalInfoLibrary.pdb
+C:\Users\decei\source\repos\PersonalInformation\PersonalInfoLibrary\obj\Debug\PersonalInfoLibrary.csprojAssemblyReference.cache
+C:\Users\decei\source\repos\PersonalInformation\PersonalInfoLibrary\obj\Debug\PersonalInfoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\decei\source\repos\PersonalInformation\PersonalInfoLibrary\obj\Debug\PersonalInfoLibrary.dll
+C:\Users\decei\source\repos\PersonalInformation\PersonalInfoLibrary\obj\Debug\PersonalInfoLibrary.pdb
