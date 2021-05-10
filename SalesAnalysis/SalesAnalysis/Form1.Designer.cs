@@ -175,7 +175,7 @@ namespace SalesAnalysis
             this.Controls.Add(this.calculateButton);
             this.Controls.Add(this.exitButton);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "SalesAnalysisList";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.salesGroupBox.ResumeLayout(false);
             this.ResumeLayout(false);

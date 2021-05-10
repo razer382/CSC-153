@@ -1,8 +1,8 @@
 ﻿/*
- * 4/14/2021
+ * 4/20/2021
  * CSC 153
  * Branden Alder
- * Program taking array of sales and calculating total, average, largest, and smallest.
+ * Program taking Sales analysis program and changing to lists
  */
 
 using System;
@@ -32,10 +32,10 @@ namespace SalesAnalysis
 
         private void calculateButton_Click(object sender, EventArgs e) // Calculate button to add values in currency format to text labels
         {
-            totalText.Text = ArrayCalculations.GetTotal(Sales.salesList).ToString("C");
-            averageText.Text = ArrayCalculations.GetAverage(Sales.salesList).ToString("C");
-            largestText.Text = ArrayCalculations.GetLargest(Sales.salesList).ToString("C");
-            smallestText.Text = ArrayCalculations.GetSmallest(Sales.salesList).ToString("C");
+            totalText.Text = ListCalculations.GetTotal(Sales.salesList).ToString("C");
+            averageText.Text = ListCalculations.GetAverage(Sales.salesList).ToString("C");
+            largestText.Text = ListCalculations.GetLargest(Sales.salesList).ToString("C");
+            smallestText.Text = ListCalculations.GetSmallest(Sales.salesList).ToString("C");
         }
 
         private void Form1_Load(object sender, EventArgs e) // puts sales in listbox
